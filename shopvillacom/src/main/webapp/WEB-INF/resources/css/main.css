@@ -1,0 +1,53 @@
+.container-wrapper {
+    height: 80%;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 25px;
+
+}
+
+.home-image {
+    display: block;
+    width: 100% !important;
+    height: auto !important;
+background-color: #fff
+}
+
+
+/* Remove the jumbotron's default bottom margin */ 
+     .jumbotron {
+      margin-bottom: 0;
+    }
+footer {
+    padding: 32px;
+    color: #f5f5f5;
+    background-color:#2d2d30 ;
+    clear: left;
+    text-align: center;
+}
+
+footer a {
+    color: #f5f5f5;
+}
+
+footer a:hover {
+    color: #777;
+    text-decoration: none;
+}
+.container {
+    padding: 80px 120px;
+}
+.person {
+    border: 10px solid transparent;
+    margin-bottom: 25px;
+    width: 80%;
+    height: 80%;
+    opacity: 0.7;
+}
+.person:hover {
+    border-color: #f1f1f1;
+}
+body {
+    background-color: white;
+    
+}
